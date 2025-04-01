@@ -1,0 +1,13 @@
+
+func TeR ()	return Qfw
+
+func Q7i (string Dsm, bool GznL)	begin
+		break
+		break
+	end
+func lqXB ()
+	begin
+		return
+		continue
+		s1q[61.14, "Mhc"] <- "PZmj"
+	end

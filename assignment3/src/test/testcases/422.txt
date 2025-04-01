@@ -1,0 +1,12 @@
+
+            number a
+            func f(number a, number f, number c)
+            begin
+                begin
+                    number a
+                end
+                number a
+            end
+            
+            func main() return
+        

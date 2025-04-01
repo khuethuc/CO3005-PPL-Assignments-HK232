@@ -1,0 +1,13 @@
+
+dynamic oPD
+number Pu[21.84,31.78,46.06]
+func IHOP ()	return rFM
+func H5N ()	begin
+		if (wOr0)
+		for olLX until gmz6 by false
+			for DOu until 31.73 by "RRFl"
+				pCd(false)
+	end
+
+func bw1K ()	return
+

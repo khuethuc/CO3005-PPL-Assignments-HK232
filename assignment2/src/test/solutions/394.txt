@@ -1,0 +1,1 @@
+Program([VarDecl(Id(pEya), StringType, None, None), VarDecl(Id(A9ye), BoolType, None, None)])

@@ -1,0 +1,5 @@
+
+func dg (bool n2o5[82.79], number zwF[41.43,8.67,75.05], bool QN6U[18.31,16.3])
+	return false
+
+string vow5

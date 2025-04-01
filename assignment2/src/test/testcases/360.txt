@@ -1,0 +1,20 @@
+
+bool OAO
+func X28 ()
+	return
+var qNfC <- false
+func JHZ ()	begin
+	end
+func dDHq (bool YA, bool Vr[24.42,89.0,17.58], string JAad)
+	begin
+		return
+		YGtB <- "fE"
+		if (NEkJ) return false
+		elif (true) continue
+		elif (false) uKE <- 98.21
+		elif ("P") continue
+		elif (18.85)
+		for Xa until 73.22 by 31.5
+			var QUf <- "RO"
+	end
+

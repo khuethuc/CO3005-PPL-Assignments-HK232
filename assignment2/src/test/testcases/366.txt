@@ -1,0 +1,4 @@
+
+bool QE <- ZBM
+var VSWM <- "VIxx"
+string spM[24.09,7.2,87.64] <- V2

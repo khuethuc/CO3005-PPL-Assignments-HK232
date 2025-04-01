@@ -1,0 +1,1 @@
+Program([VarDecl(Id(QE), BoolType, None, Id(ZBM)), VarDecl(Id(VSWM), None, var, StringLit(VIxx)), VarDecl(Id(spM), ArrayType([24.09, 7.2, 87.64], StringType), None, Id(V2))])

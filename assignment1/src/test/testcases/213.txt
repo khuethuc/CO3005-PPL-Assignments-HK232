@@ -1,0 +1,8 @@
+
+        ## Giai cuu sinh vien Bach Khoa
+        func main()
+            number x <- 9
+            if (x > 9) print("Hehe")
+            else print("Huhu")
+            return 6
+        

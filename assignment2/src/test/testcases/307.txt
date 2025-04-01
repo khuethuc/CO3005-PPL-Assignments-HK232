@@ -1,0 +1,6 @@
+
+dynamic WaP
+func Vpra (string fz23[97.81,85.93], bool U_)	begin
+	end
+
+string aJC8[45.7,58.68] <- true

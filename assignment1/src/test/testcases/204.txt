@@ -1,0 +1,11 @@
+ 
+            func main(number a[5])
+                begin
+                    var i <- 0
+                    for i until i >= 5 by 1
+                    begin
+                        a[i] <- i * i + 5
+                    end
+                    return -1
+                end
+        

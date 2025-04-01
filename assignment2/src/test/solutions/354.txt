@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(cY), [VarDecl(Id(qs), StringType, None, None)], Block([For(Id(KQ), NumLit(27.28), StringLit(OftS), AssignStmt(ArrayCell(Id(Q4M), [BooleanLit(True), BooleanLit(False), Id(yL)]), StringLit(RS)))]))])

@@ -1,0 +1,8 @@
+
+func ZhNe (number ze[22.02,91.51])
+	return false
+number SJ
+func TP ()	return 20.37
+func o1 ()
+	return
+

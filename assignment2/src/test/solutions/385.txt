@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(RBA4), [VarDecl(Id(Xa5g), NumberType, None, None)], Return())])

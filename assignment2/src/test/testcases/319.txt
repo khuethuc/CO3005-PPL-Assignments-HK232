@@ -1,0 +1,8 @@
+
+string rM[37.82] <- true
+func Tl (number X9[57.37], string A7H, bool inrx[85.97,78.76,82.74])	return NNkM
+
+number hPl
+bool rGx[70.35] <- 71.2
+func p9y (bool M6AL, number JI, string gQ3)
+	return true

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(HNqP), StringType, None, Id(UN)), FuncDecl(Id(lO), [VarDecl(Id(bs), BoolType, None, None)], Return(StringLit(C)))])

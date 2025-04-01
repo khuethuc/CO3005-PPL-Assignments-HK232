@@ -1,0 +1,13 @@
+
+            number a
+            func d() return
+            func main()begin
+                number a
+                number c
+                string d
+                begin
+                    number c
+                    string d
+                end
+            end
+        

@@ -1,0 +1,8 @@
+
+func BLzf (bool qY)	return
+string rFGw[85.71,6.64] <- eDR
+func hddM (string cs[78.86,46.94,3.37])	return 66.06
+string vT <- 23.91
+func rh6v ()
+	return true
+

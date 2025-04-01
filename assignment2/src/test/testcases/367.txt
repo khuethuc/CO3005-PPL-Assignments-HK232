@@ -1,0 +1,6 @@
+
+var yC <- 5.45
+bool hFx1[62.92,11.32,85.82]
+bool ZVAh[66.58] <- 18.07
+func B2N (string ctV)	return "ccMC"
+

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(TE), [VarDecl(Id(W5), StringType, None, None)], Return(NumLit(66.54)))])

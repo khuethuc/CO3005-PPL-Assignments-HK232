@@ -1,0 +1,5 @@
+
+number Rgl7 <- "ZY"
+func fsS (string pR)
+	return
+

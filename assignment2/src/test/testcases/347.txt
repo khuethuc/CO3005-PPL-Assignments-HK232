@@ -1,0 +1,7 @@
+
+func M4P ()	begin
+	end
+
+func xKqJ (number Lb0g, bool Uc[54.15], bool Pgm[5.12,12.37])	return false
+func UcIy (number Ovs[50.1], string WA)
+	return

@@ -1,0 +1,5 @@
+ 
+            number aPI <- 3.14
+            number l[3] <- value * aPI
+                
+        

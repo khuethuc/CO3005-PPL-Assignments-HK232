@@ -1,0 +1,32 @@
+
+func Wf ()
+	begin
+		if (fP) for b3 until "U" by "Ft"
+			number Ig
+		elif (Tt0y)
+		break
+		elif (hB)
+		break
+		elif ("yVK")
+		begin
+			continue
+			wv(false)
+			for fa until Dwu by true
+				yi7p()
+		end
+		else return
+		if (51.43) bool Te[17.59,24.6,34.25] <- Qoo0
+		else break
+		if (false) dynamic rK_
+		elif ("YFVu")
+		string jQw[39.99]
+		elif (69.84)
+		continue
+		elif (false) bool II[20.17,21.4,94.73] <- true
+	end
+func mP (string wY)
+	begin
+	end
+
+func au3m (number XV)	return
+

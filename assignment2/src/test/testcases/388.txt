@@ -1,0 +1,6 @@
+
+func GLf0 (number Xd, number f0Tt[83.85])
+	return "X"
+
+func pFVm ()	return true
+

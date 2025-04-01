@@ -1,0 +1,9 @@
+
+func U5Q (bool zA9p, number K8A3)
+	return ND
+
+func Zf54 (bool WN[39.31,48.93], number C4m9)	begin
+	end
+
+string nYCl <- true
+string rDF <- false

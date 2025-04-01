@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(bvi), [], Return(StringLit(rv))), VarDecl(Id(dbpB), ArrayType([90.4, 63.83, 45.15], NumberType), None, None), VarDecl(Id(AK_), StringType, None, None), VarDecl(Id(tikv), None, var, BooleanLit(True))])

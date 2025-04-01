@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(TeR), [], Return(Id(Qfw))), FuncDecl(Id(Q7i), [VarDecl(Id(Dsm), StringType, None, None), VarDecl(Id(GznL), BoolType, None, None)], Block([Break, Break])), FuncDecl(Id(lqXB), [], Block([Return(), Continue, AssignStmt(ArrayCell(Id(s1q), [NumLit(61.14), StringLit(Mhc)]), StringLit(PZmj))]))])

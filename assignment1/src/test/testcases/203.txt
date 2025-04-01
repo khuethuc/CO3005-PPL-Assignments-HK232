@@ -1,0 +1,6 @@
+ 
+            func main(number a[5])
+                begin
+                    a[5] <- 1
+                end      
+        

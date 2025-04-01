@@ -1,0 +1,9 @@
+
+func igzc (number wcT)	return
+
+bool rEM[66.39,38.59,83.73] <- DoR
+func tDB (string vf[75.38,15.83,68.29], number duC, bool Fa)	return
+func YkZ (number Na, bool xJ[99.68,42.66])
+	begin
+		KkG()
+	end

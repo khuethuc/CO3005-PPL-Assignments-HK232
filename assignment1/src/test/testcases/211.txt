@@ -1,0 +1,9 @@
+ 
+            var a <- true > "true" 
+            var b <- true >= "false"
+            var c <- true = "true"
+            var d <- true == "true"
+            var e <- false < "true"
+            var f <- false <= "false"
+            var g <- true >= "true" ... 1 > 2
+        

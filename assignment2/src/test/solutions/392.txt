@@ -1,0 +1,1 @@
+Program([VarDecl(Id(DZm), ArrayType([6.24], NumberType), None, None), VarDecl(Id(ui), None, dynamic, None), VarDecl(Id(ZNBL), None, var, Id(jt)), VarDecl(Id(etY), NumberType, None, NumLit(23.41)), VarDecl(Id(S5), None, var, Id(OJwm))])

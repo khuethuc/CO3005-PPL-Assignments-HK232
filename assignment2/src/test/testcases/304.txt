@@ -1,0 +1,7 @@
+
+bool tdo[70.06,50.24,2.66]
+bool AGv[11.72] <- 77.93
+func VN6y ()
+	return false
+number Cru[43.77,38.18,71.25] <- HCA
+string pjq[2.76,40.75]

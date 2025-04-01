@@ -1,0 +1,6 @@
+
+            dynamic k
+            var a <- k
+
+            func main() return
+        

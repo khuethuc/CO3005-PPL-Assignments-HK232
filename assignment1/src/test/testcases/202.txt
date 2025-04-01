@@ -1,0 +1,4 @@
+ 
+            func main(number a[5])
+                return  
+        

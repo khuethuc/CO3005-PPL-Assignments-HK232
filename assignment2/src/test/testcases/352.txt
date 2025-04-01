@@ -1,0 +1,13 @@
+
+func RCF ()
+	begin
+		for vr until "Lgmk" by 17.84
+			begin
+				for JyHs until "pzu" by AzkR
+					for Vqae until 67.8 by 0.97
+						break
+			end
+	end
+
+func zi (bool Gc[73.48,14.11,53.22], bool RIP, bool Tcay)	return
+

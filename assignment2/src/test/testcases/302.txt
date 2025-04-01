@@ -1,0 +1,3 @@
+
+func TE (string W5)	return 66.54
+

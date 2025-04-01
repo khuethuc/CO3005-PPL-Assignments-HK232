@@ -1,0 +1,19 @@
+
+func P7 ()	begin
+		return 1.12
+		kv(false, true)
+	end
+func ojw (string m7v_)
+	return
+
+number VgGH[22.6,84.97,94.83]
+func ZaBA (string Bl[38.71,22.26], number Tub[38.19], bool WSp)
+	return
+
+func pwv ()	begin
+		for NHm until true by "fT"
+			for SwO until 89.2 by false
+				return true
+		for DmG until nkau by "SjTks"
+			EAU8(nS65)
+	end

@@ -1,0 +1,6 @@
+
+string Al[40.87,23.7]
+func BquZ ()
+	return true
+
+bool r5[70.65,2.49] <- "giSG"

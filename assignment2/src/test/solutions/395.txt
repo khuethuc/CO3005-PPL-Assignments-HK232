@@ -1,0 +1,1 @@
+Program([VarDecl(Id(PN), NumberType, None, None)])

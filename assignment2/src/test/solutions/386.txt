@@ -1,0 +1,1 @@
+Program([VarDecl(Id(Rgl7), NumberType, None, StringLit(ZY)), FuncDecl(Id(fsS), [VarDecl(Id(pR), StringType, None, None)], Return())])

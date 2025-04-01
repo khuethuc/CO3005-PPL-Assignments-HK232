@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(zoa3), [VarDecl(Id(Xy), StringType, None, None), VarDecl(Id(SU), ArrayType([69.52, 63.11, 21.39], NumberType), None, None), VarDecl(Id(W10U), BoolType, None, None)], Return()), FuncDecl(Id(Nj), [VarDecl(Id(Upu), ArrayType([90.4, 39.17, 11.96], BoolType), None, None), VarDecl(Id(ZHP3), NumberType, None, None)], Return(Id(il)))])

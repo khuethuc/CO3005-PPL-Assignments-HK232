@@ -1,0 +1,7 @@
+
+            dynamic num
+            number a <- num
+            number b <- num
+
+            func main() return
+        

@@ -1,0 +1,8 @@
+
+func Son (string qL[51.73,81.1,23.74], string rblK[61.71,14.0,79.34])
+	return
+
+func eu6 ()
+	return
+
+number WI[79.03,24.91]

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(LS), None, var, Id(cVI)), FuncDecl(Id(lJ), [], Return(Id(Af))), VarDecl(Id(wZE), None, var, StringLit(WPE)), VarDecl(Id(msU), StringType, None, None)])

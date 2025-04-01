@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(RCF), [], Block([For(Id(vr), StringLit(Lgmk), NumLit(17.84), Block([For(Id(JyHs), StringLit(pzu), Id(AzkR), For(Id(Vqae), NumLit(67.8), NumLit(0.97), Break))]))])), FuncDecl(Id(zi), [VarDecl(Id(Gc), ArrayType([73.48, 14.11, 53.22], BoolType), None, None), VarDecl(Id(RIP), BoolType, None, None), VarDecl(Id(Tcay), BoolType, None, None)], Return())])

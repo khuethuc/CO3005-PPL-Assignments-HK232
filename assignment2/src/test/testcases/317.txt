@@ -1,0 +1,8 @@
+
+func VUl2 (bool hI_A, string V4G[81.18,27.91])
+	return
+func ttO (string Eh, bool IB)	return "bFIAO"
+func UPww ()	return 21.64
+
+string uN2[92.5,28.47] <- false
+bool kFMn[8.28,93.41,27.65] <- "W"

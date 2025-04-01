@@ -1,0 +1,5 @@
+
+            dynamic p
+            var x <- p + p * p
+            number y <- p
+        

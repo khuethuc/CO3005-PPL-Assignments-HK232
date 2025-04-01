@@ -1,0 +1,1 @@
+Program([VarDecl(Id(hwJ), ArrayType([49.79], StringType), None, Id(Ib_))])

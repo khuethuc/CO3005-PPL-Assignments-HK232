@@ -1,0 +1,6 @@
+
+func cY (string qs)
+	begin
+		for KQ until 27.28 by "OftS"
+			Q4M[true, false, yL] <- "RS"
+	end

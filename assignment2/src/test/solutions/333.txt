@@ -1,0 +1,1 @@
+Program([VarDecl(Id(WB4), ArrayType([26.34], BoolType), None, None), VarDecl(Id(txuY), ArrayType([89.72, 32.58, 56.65], BoolType), None, StringLit(yfNz)), VarDecl(Id(Tyk), NumberType, None, Id(zh))])

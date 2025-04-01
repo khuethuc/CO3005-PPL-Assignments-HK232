@@ -1,0 +1,7 @@
+
+var dq <- "aJuZ"
+func cser (string hJG[39.66], bool xO0[71.75,87.0], string XcK)	begin
+	end
+func Mm (number XyZ, string nTa[18.02], number wr[84.8])
+	return 82.27
+

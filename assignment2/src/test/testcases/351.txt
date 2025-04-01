@@ -1,0 +1,5 @@
+
+func F9T (string EG[20.35,91.29,80.97], string Uy[94.11], string gQOY[31.96])
+	return
+
+number bHW_[87.04,7.13,2.2]

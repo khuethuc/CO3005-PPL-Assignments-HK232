@@ -1,0 +1,14 @@
+
+func Scur (bool Jj[98.45,3.25], string uNrB)	begin
+		string xgb[69.98,25.97] <- false
+		begin
+			return
+		end
+	end
+
+var gD <- not 97.91
+func QY (number fYYW[38.17])
+	begin
+	end
+
+number Tyhg[19.76,4.57] <- Mtz(DvZC(0.56, FfAV))

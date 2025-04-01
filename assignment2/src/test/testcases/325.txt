@@ -1,0 +1,5 @@
+
+string QL[87.77,61.78]
+func CZ (string W8f[26.47], number p_z)
+	begin
+	end

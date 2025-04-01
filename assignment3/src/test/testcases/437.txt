@@ -1,0 +1,7 @@
+
+            number hi
+            var a <- hi
+            number b <- a
+
+            func main() return
+        

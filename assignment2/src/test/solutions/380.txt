@@ -1,0 +1,1 @@
+Program([VarDecl(Id(Qh), ArrayType([60.56, 44.96], BoolType), None, None), FuncDecl(Id(LHtb), [VarDecl(Id(mc), ArrayType([85.05, 43.38, 53.94], NumberType), None, None), VarDecl(Id(fO), ArrayType([73.43], BoolType), None, None)], Block([CallStmt(Id(uMN), [NumLit(17.51)]), If((BooleanLit(False), Continue), [(NumLit(73.88), Return(BooleanLit(False)))], None)]))])

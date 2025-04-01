@@ -1,0 +1,4 @@
+ 
+            func isPrime(number x)
+                break
+        

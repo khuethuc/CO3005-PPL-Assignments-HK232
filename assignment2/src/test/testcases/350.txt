@@ -1,0 +1,4 @@
+
+func Yz (string P1)
+	return
+

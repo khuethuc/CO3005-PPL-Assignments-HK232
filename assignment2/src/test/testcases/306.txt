@@ -1,0 +1,5 @@
+
+string ff[68.64] <- 34.72
+number ZV <- "oO"
+bool bUh[57.77]
+number Fyo[23.11,41.98] <- "L"

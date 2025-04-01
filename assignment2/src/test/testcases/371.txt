@@ -1,0 +1,7 @@
+
+var vAKN <- false
+func Vd (string qfk, number sZn[98.34,53.3,54.7], number nrsn)	begin
+		continue
+	end
+string nXmD
+number zW[25.48] <- "m"

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(Vx), BoolType, None, None), VarDecl(Id(FL5C), ArrayType([72.24, 83.53, 11.9], BoolType), None, NumLit(71.69))])

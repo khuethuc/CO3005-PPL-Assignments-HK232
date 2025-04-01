@@ -1,0 +1,5 @@
+
+func zoa3 (string Xy, number SU[69.52,63.11,21.39], bool W10U)
+	return
+func Nj (bool Upu[90.4,39.17,11.96], number ZHP3)	return il
+

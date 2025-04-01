@@ -1,0 +1,1 @@
+Program([VarDecl(Id(D9), ArrayType([66.8], StringType), None, None), FuncDecl(Id(XoDb), [VarDecl(Id(dgrp), StringType, None, None)], Return()), FuncDecl(Id(Ef), [VarDecl(Id(pxDM), ArrayType([28.82, 21.1], BoolType), None, None), VarDecl(Id(vuY), BoolType, None, None), VarDecl(Id(XW), ArrayType([49.6, 46.28], BoolType), None, None)], Return()), FuncDecl(Id(aZ), [], Return())])
