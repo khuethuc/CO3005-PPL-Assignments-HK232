@@ -20,6 +20,6 @@ For Parser (assignment 1), type: python run.py test ParserSuite
 
 For AST (assignment 2), type: python run.py test ASTGenSuite
 
-For Static Checker (assignment 3): python run.py test CheckSuite
+For Static Checker (assignment 3), type: python run.py test CheckSuite
 
-For Code Generation (assignment 4): python run.py test CodeGenSuite
+For Code Generation (assignment 4), type: python run.py test CodeGenSuite
